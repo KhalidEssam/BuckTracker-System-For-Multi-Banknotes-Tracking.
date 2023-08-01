@@ -1,0 +1,10 @@
+Long Short-Term Memory Network or LSTM, is a variation of a recurrent neural network (RNN) 
+that is quite effective in predicting the long sequences of data like sentences and stock prices over a period of time.
+
+It differs from a normal feedforward network 
+because there is a feedback loop in its architecture. 
+It also includes a special unit known as a memory cell 
+to withhold the past information for a longer time for making an effective prediction.
+
+In fact, LSTM with its memory cells is an improved version of traditional RNNs 
+which cannot predict using such a long sequence of data and run into the problem of vanishing gradient.
