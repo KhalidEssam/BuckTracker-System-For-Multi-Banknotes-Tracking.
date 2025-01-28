@@ -31,13 +31,13 @@ This project was published at the IMSA Conference, demonstrating a significant i
 
 ## How It Works
 **User scans a banknote** using their mobile camera.
-<img src="https://github.com/Abdullahelbarrany/BuckTracker-Multi-Banknote-Tracking-System/blob/main/sxreenshots/m1%20(4).png?raw=true"  align="center" width="300" height="600">
+<img src="https://github.com/Abdullahelbarrany/BuckTracker-Multi-Banknote-Tracking-System/blob/main/sxreenshots/m1%20(4).png?raw=true"  align="center" width="500" height="500">
 
 
 **Preprocessing is applied** (grayscale conversion, noise reduction, and image segmentation).
 
 **OCR extracts the serial number** and determines the currency type.
-<img src="https://github.com/Abdullahelbarrany/BuckTracker-Multi-Banknote-Tracking-System/blob/main/sxreenshots/Screenshot%202022-09-22%20234214.png?raw=true"  align="center" width="300" height="600">
+<img src="https://github.com/Abdullahelbarrany/BuckTracker-Multi-Banknote-Tracking-System/blob/main/sxreenshots/Screenshot%202022-09-22%20234214.png?raw=true"  align="center" width="500" height="500">
 
 
 **GPS location is recorded** along with the scanned banknote.
